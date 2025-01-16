@@ -3,13 +3,13 @@
     <style>
       .cls-1 {
         font-size: 45px;
-        fill: #7d4196;
+        fill: #ff4c00;
         font-family: Poppins;
         font-weight: 700;
       }
 
       .cls-2 {
-        fill: #ff3494;
+        fill: #ff8c00;
       }
     </style>
   </defs>
